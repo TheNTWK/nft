@@ -1,0 +1,62 @@
+{
+  "default_language": "en-en",
+  "title": "TheNTWK NFTs",
+  "icon": "https://static.wixstatic.com/media/11286a_b65ff95c33c842fb938871e2d29da727~mv2.png",
+  "logo": "https://static.wixstatic.com/media/11286a_b65ff95c33c842fb938871e2d29da727~mv2.png",
+  "homepage": {
+    "image": "https://static.wixstatic.com/media/11286a_b65ff95c33c842fb938871e2d29da727~mv2.png",
+    "image_link": "www.nft.the-ntwk.com"
+  },
+  "nav": {
+    "background_color": "#ffffff",
+    "font_color": "#303e44",
+    "font_active_color": "#f0f0f0",
+    "font_hover_color": "#FDDE5D"
+  },
+  "body": {
+    "background_color": "#ffffff",
+    "font_color": "#303e44",
+    "font_headings_color": "#303e44",
+    "font_muted_color": "#adb5bd"
+  },
+  "card": {
+    "background_color": "#303e44",
+    "font_color": "#ffffff",
+    "font_headings_color": "#FDDE5D",
+    "font_muted_color": "#adb5bd"
+  },
+  "footer": {
+    "company_name": "TheNTWK",
+    "description": "The one-stop-shop. Belong to the leading community of platform (digital) thinking.",
+    "copyright": "© 2022 TheNTWK",
+    "terms_url": "https://www.the-ntwk.com/privacy-policy",
+    "links": [
+      {
+        "title": "About",
+        "url": "https://www.the-ntwk.com/about-us"
+      },
+      {
+        "title": "Support",
+        "url": "mailto:contact@the-ntwk.com"
+      }
+    ],
+    "social": [
+      {
+        "site": "instagram",
+        "url": "https://www.instagram.com/the_ntwk/"
+      },
+      {
+        "site": "linkedin",
+        "url": "https://www.linkedin.com/company/the-ntwk-digital-business-model"
+      },
+      {
+        "site": "twitter",
+        "url": "https://twitter.com/ntwk_platforms"
+      },
+      {
+        "site": "youtube",
+        "url": "https://www.youtube.com/channel/UCk1vofPClzggR-d8CsH4X7A"
+      }
+    ]
+  }
+}
